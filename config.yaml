@@ -5,7 +5,7 @@ params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
+    title: Richard's Forestry Test
     logo_img: "/images/182479.jpg"
     has_nav: true
   footer:
