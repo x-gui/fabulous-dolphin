@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = "2019-10-16T07:00:00+00:00"
-draft = true
 excerpt = "hgjjhg"
 layout = "post"
 subtitle = "jhkjhg"
