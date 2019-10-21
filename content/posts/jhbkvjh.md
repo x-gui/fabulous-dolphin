@@ -5,7 +5,7 @@ excerpt = "hgjjhg"
 layout = "post"
 subtitle = "jhkjhg"
 thumb_img_path = "/images/9.jpg"
-title = "jhbkvjh"
+title = "Edited on github"
 
 +++
- njhkbjgkjh
+Hello, Edit from Github!
